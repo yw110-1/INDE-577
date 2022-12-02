@@ -27,6 +27,6 @@ Topics include:
 - Tabular vs. Deep Learning Methods
 
 ## Coding Tools:
-- Python
+- Python 3.8.15
 - Jupyter Notebooks
 - Visual Studio Code
