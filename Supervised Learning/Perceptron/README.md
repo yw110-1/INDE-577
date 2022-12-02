@@ -11,7 +11,7 @@ A perceptron is the simplest neural network, one that is comprised of just one n
     - Update  $\\mathbf{w}_{t+1} = \\mathbf{w}_t + \\eta ( y_i - \\widehat{y_i}) \\mathbf{x_i}$
   - Repeat until iteration error is small
   - Return final weight vector $\\mathbf{w_i}$
-  - 
+
 The figure of perceptron with the sign activation function is as below:
 [![image](https://user-images.githubusercontent.com/113308587/205349888-090ebb7b-a6f8-47cc-8830-242f6915c424.png)](https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/perceptron.png)
 
