@@ -10,4 +10,4 @@ Supervised learning can be separated into two types of problems when data mining
 - Regression is used to understand the relationship between dependent and independent variables. It is commonly used to make projections, such as for sales revenue for a given business. [Gradient Descent](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Gradient%20Descent), [Linear Regression](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Linear%20Regression), and [Logistic Regression](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Logistic%20Regression) are regression algorithms that will be included in the repository.
 
 ## Reference
-IBM Supervised Learning, https://www.ibm.com/cloud/learn/supervised-learning#toc-challenges-60FavNLN.
+IBM, Supervised Learning, https://www.ibm.com/cloud/learn/supervised-learning#toc-challenges-60FavNLN.
