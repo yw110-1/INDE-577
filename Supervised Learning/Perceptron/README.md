@@ -13,7 +13,7 @@ A perceptron is the simplest neural network, one that is comprised of just one n
   - Return final weight vector $\\mathbf{w_i}$
 
 The figure of perceptron with the sign activation function is as below:
-[![image](https://user-images.githubusercontent.com/113308587/205349888-090ebb7b-a6f8-47cc-8830-242f6915c424.png)](https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/perceptron.png)
+[![image](https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/image/perceptron.png)
 
 ## Dataset
 Here I will use the palmer penguin dataset, which was collected collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The dataset includes the following elements:
