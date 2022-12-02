@@ -28,3 +28,4 @@ For each sub-repository, I will include a README.md file that clearly explaining
 - Python 3.8.15
 - Jupyter Notebooks
 - Visual Studio Code
+- Google Colab
