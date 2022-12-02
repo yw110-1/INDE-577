@@ -22,7 +22,7 @@ This data science course covers algorithms from [supervised learning](https://gi
 - [k-Means Clustering](https://github.com/yw110-1/INDE-577/tree/main/Unsupervised%20Learning/k-Means%20Clustering)
 - [Principle Component Analysis](https://github.com/yw110-1/INDE-577/tree/main/Unsupervised%20Learning/Principle%20Component%20Analysis)
 
-For each sub-repository, I will include a README.md file that clearly explaining the algorithm being implemented as well as explaining the data that it is being used, and a jupyter notebook with code for each model and method with performance and error analysis.
+For each sub-repository, I will include a README.md file that clearly explaining the algorithm being implemented as well as explaining the data that it is being used, and a .ipynb jupyter notebook with code for each model and method with performance and error analysis.
 
 ## Coding Tools:
 - Python 3.8.15
