@@ -23,7 +23,6 @@ The main distinction between the two approaches is the use of labeled datasets. 
 
 
 ## Reference
-IBM, Supervised vs. Unsupervised Learning: What’s the Difference?, https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning.
-
-IBM, Unsupervised Learning, https://www.ibm.com/cloud/learn/unsupervised-learning#toc-common-uns-_knyXRTd.
+1. IBM, Supervised vs. Unsupervised Learning: What’s the Difference?, https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning.
+2. IBM, Unsupervised Learning, https://www.ibm.com/cloud/learn/unsupervised-learning#toc-common-uns-_knyXRTd.
 
