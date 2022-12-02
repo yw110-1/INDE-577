@@ -10,7 +10,7 @@ Email: rrd6@rice.edu
 This data science course covers algorithms from supervised learning, unsupervised learning, and reinforcement learning. 
 Topics include:
 ### Supervised Learning:
-- Perceptron
+- [Perceptron](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Perceptron)
 - Linear Regression
 - Gradient Descent
 - Logistic Regression
