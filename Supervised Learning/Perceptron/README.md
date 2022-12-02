@@ -1,5 +1,26 @@
 # Perceptron
 In this sub-repository we will introduced a specific type of single neuron model called the perceptron.
 
-The perceptron is a single neuron model with the sign activation function as depicted in the figure below.
+## Algorithm
+A perceptron is the simplest neural network, one that is comprised of just one neuron. 
+- Input: A sequence of training samples ( $\\mathbf{x_1}$, $y_1$), ( $\\mathbf{x_2}$, $y_2$), ...
+- First we initialize $\\mathbf{w_0} = 0$
+- For each training example ( $\\mathbf{x_i}$, $y_i$):
+  - Predict $\\widehat{y_i} = \\phi( \\mathbf{w}_t^{\\top} \\mathbf{x_i} )$
+  - If $y_i$ is not equal to $\\widehat{y}$:
+    - Update  $\\mathbf{w}_{t+1} = \\mathbf{w}_t + \\eta ( y_i - \\widehat{y_i}) \\mathbf{x_i}$
+  - Repeat until iteration error is small
+  - Return final weight vector $\\mathbf{w_i}$
+  - 
+The figure of perceptron with the sign activation function is as below:
 [![image](https://user-images.githubusercontent.com/113308587/205349888-090ebb7b-a6f8-47cc-8830-242f6915c424.png)](https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/perceptron.png)
+
+## Dataset
+Here I will use the palmer penguin dataset, which was collected collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The dataset includes the following elements:
+- ```species```: penguin species (Adelie, Gentoo, or Chinstrap)
+- ```island```: island name (Torgersen, Dream, or Biscoe)
+- ```bill_length_mm```: culmen length (mm)
+- ```bill_depth_mm```: culmen depth (mm)
+- ```flipper_length_mm```: flipper length (mm)
+- ```body_mass_g```: body mass (g)
+- ```sex```: penguin sex
