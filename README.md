@@ -1,5 +1,5 @@
 # INDE 577: Data Science and Machine Learning
-By Yixuan Wu
+By Iris Wu
 
 ## Instructor
 Instructor: Dr. Randy R. Davila
