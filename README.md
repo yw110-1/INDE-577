@@ -1,4 +1,4 @@
-# INDE-577
+# INDE 577: Data Science and Machine Learning
 By Yixuan Wu
 
 ## Instructor
