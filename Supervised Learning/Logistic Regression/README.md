@@ -36,8 +36,9 @@ P\Big(y^{(i)}\mid x^{(i)}\Big) = [\hat{y}^{(i)}]^{y}[1 - \hat{y}^{(i)}]^{(1-y)}
 $$
 
 Taking the logorithm on both sides of this equation yields (dropping the index notation to avoid messy equations):
+
 $$
-\log P\Big(y^{(i)}\mid x^{(i)}\Big) = \log \hat{y}^{y}(1 - \hat{y})^{(1-y)} = y\log \hat{y} + (1-y) \log (1 - \hat{y})
+\log P\Big(y^{(i)}\mid x^{(i)}\Big) = \log \hat{y}^{y}[1 - \hat{y}]^{(1-y)} = y\log \hat{y} + (1-y) \log (1 - \hat{y})
 $$
 
 Since the logorithmic function is an *increasing function*, maximimizing $P\Big(y^{(i)}\mid x^{(i)}\Big)$ is equivalent to maximizing $\log P\Big(y^{(i)}\mid x^{(i)}\Big)$. Equivalently, we could also considering minimizing this function. Thus, we arrive at our single neuron coss/loss function for a single entry of data, which implies a full loss function. 
