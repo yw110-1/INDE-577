@@ -18,13 +18,3 @@ The figure of perceptron with the sign activation function is as below:
 And the perception replace rule is shown as below:
 
 <img src="https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/image/Update%20Rule.png" alt="perceptron" width="700"/>
-
-## Dataset
-Here I will use the palmer penguin dataset, which was collected collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. The dataset includes the following elements:
-- ```species```: penguin species (Adelie, Gentoo, or Chinstrap)
-- ```island```: island name (Torgersen, Dream, or Biscoe)
-- ```bill_length_mm```: culmen length (mm)
-- ```bill_depth_mm```: culmen depth (mm)
-- ```flipper_length_mm```: flipper length (mm)
-- ```body_mass_g```: body mass (g)
-- ```sex```: penguin sex
