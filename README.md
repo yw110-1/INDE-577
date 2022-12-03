@@ -29,3 +29,6 @@ For each sub-repository, I will include a README.md file that clearly explaining
 - Jupyter Notebooks
 - Visual Studio Code
 - Google Colab
+
+## Resource
+Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
