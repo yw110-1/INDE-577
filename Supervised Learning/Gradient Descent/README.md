@@ -1,1 +1,3 @@
+# Gradient Descent
 
+## Algorithm
