@@ -1,4 +1,4 @@
-# k-Means Clustering
+# $k$-Means Clustering
 In this sub-repository I will introduce the k-Means Clustering. K-means is considered as one of the most used clustering algorithms due to its simplicity.
 
 ## Algorithm
