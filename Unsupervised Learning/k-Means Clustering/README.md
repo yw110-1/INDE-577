@@ -1,1 +1,6 @@
+# k-Means Clustering
 
+
+
+## Dataset
+The dataset I will use is [make_classification](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html) dataset.
