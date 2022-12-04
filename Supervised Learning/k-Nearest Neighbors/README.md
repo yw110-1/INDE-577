@@ -39,4 +39,4 @@ Here are some things to keep in mind:
 - Derive a plot between error rate and K denoting values in a defined range. Choose the K value having the minimum error rate. 
 
 ## Dataset
-For the dataset, I am using the [abalone dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
+For the dataset, I am using the [penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
