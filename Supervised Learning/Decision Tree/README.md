@@ -1,4 +1,4 @@
-# Decision and Regression Trees
+# Decision Trees
 In this sub-repository, I will intri=oduce the decision trees. Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.
 
 ## Algorithm
@@ -15,3 +15,6 @@ The nodes shown above fall under the following types of nodes:
 1. Root node — node at the top of the tree. This node acts as the input node for feature vectors in the model.
 2. Decision nodes — nodes where the variables are evaluated. These nodes have arrows pointing to them and away from them
 3. Leaf nodes — final nodes at which the prediction is made
+
+## Dataset
+The dataset I am using is [Palmer Penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
