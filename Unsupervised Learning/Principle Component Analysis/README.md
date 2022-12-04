@@ -10,7 +10,8 @@ In this sub-repository I will introduce the Principle Component Analysis, or PCA
 - Sort the columns of $\\mathbf{D}$ into order of decreasing eigenvalues, and apply the same order to the columns of V
 - Reject those with eigenvalue less than some $\eta$, leaving L dimensions in the data
 
-
+## Dataset
+The dataset I am using is [Palmer Penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
 
 ## References
 1. Builtin, A Step-by-Step Explanation of Principal Component Analysis (PCA), https://builtin.com/data-science/step-step-explanation-principal-component-analysis.
