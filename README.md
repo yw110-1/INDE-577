@@ -24,6 +24,9 @@ This data science course covers algorithms from [supervised learning](https://gi
 
 For each sub-repository, I will include a README.md file that clearly explaining the algorithm being implemented as well as explaining the data that it is being used, and a .ipynb jupyter notebook with code for each model and method with performance and error analysis.
 
+## Datasets
+The datasets used in the codes are showed in the [dataset folder](https://github.com/yw110-1/INDE-577/tree/main/Data).
+
 ## Coding Tools:
 - Python 3.8.15
 - Jupyter Notebooks
