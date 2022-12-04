@@ -18,3 +18,6 @@ The figure of perceptron with the sign activation function is as below:
 And the perception replace rule is shown as below:
 
 <img src="https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/image/Update%20Rule.png" alt="perceptron" width="700"/>
+
+## Dataset
+The dataset I am using is [Palmer Penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
