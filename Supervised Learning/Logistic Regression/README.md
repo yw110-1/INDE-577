@@ -106,3 +106,5 @@ $$
 \frac{\partial C(w_1, b; x^{(i)},y^{(i)})}{\partial b} = (\hat{y}^{(i)} - y^{(i)})
 $$
 
+## Dataset
+The dataset I am using is [Palmer Penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
