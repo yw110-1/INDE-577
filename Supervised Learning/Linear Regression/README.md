@@ -1,5 +1,5 @@
 # Linear Regression
-In this sub-repository I will introduce the single neuron linear regression model. Linear regression analysis is used to predict the value of a variable based on the value of another variable.
+In this sub-repository, I will introduce the single neuron linear regression model. Linear regression analysis is used to predict the value of a variable based on the value of another variable.
 
 ## Algorithm
 This specific case of regression assumes that the target values in $\mathcal{Y}$ are approximated by a linear function of the associated feature vectors. That is, the optimal target function $f:\mathcal{X} \rightarrow \mathcal{Y}$ is assumed the be roughly a linear function. 
