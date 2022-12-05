@@ -1,4 +1,4 @@
-# Dataset
+# Datasets
 The datasets in the whole repository that I will use are showing as below:
 
 ## Palmer Penguin Dataset
