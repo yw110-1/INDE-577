@@ -1,5 +1,5 @@
 # Perceptron
-In this sub-repository we will introduced a specific type of single neuron model called the perceptron.
+In this sub-repository, I will introduce a specific type of single neuron model called the perceptron.
 
 ## Algorithm
 A perceptron is the simplest neural network, one that is comprised of just one neuron. 
