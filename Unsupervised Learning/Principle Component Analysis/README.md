@@ -1,5 +1,5 @@
 # Principle Component Analysis
-In this sub-repository I will introduce the Principle Component Analysis, or PCA. PCA is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set. The goal of PCA is to reduce the dimensionality of the feature vectors used in training machine learning algorithms. 
+In this sub-repository, I will introduce the Principle Component Analysis, or PCA. PCA is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set. The goal of PCA is to reduce the dimensionality of the feature vectors used in training machine learning algorithms. 
 
 ## Algorithm
 - Write N datapoints $\\mathbf{x_i}$ = ( $\\mathbf{x_{1i}}, \\mathbf{x_{2i}}, ... \\mathbf{x_{Mi}}$) as row vectors
@@ -73,5 +73,6 @@ To project the data contained in $A$ onto the first two principle component axis
 The dataset I am using is [Palmer Penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
 
 ## References
-1. Builtin, A Step-by-Step Explanation of Principal Component Analysis (PCA), https://builtin.com/data-science/step-step-explanation-principal-component-analysis.
-2. Bamboos Consulting, Naive Principal Component Analysis, https://www.bamboos-consulting.com/blog/naive-principal-component-analysis/.
+1. Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
+2. Builtin, A Step-by-Step Explanation of Principal Component Analysis (PCA), https://builtin.com/data-science/step-step-explanation-principal-component-analysis.
+3. Bamboos Consulting, Naive Principal Component Analysis, https://www.bamboos-consulting.com/blog/naive-principal-component-analysis/.
