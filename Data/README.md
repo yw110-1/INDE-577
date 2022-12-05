@@ -10,18 +10,6 @@ The penguin data were collected and made available by Dr. Kristen Gorman and the
   - ```body_mass_g```: body mass (g)
   - ```island```: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago (Antarctica)
   - ```sex```: penguin sex
-  
-## Abalone Dataset
-The abalone data comes from an original (non-machine-learning) study: Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and Wes B Ford (1994), "The Population Biology of Abalone (_Haliotis_ species) in Tasmania. I. Blacklip Abalone (_H. rubra_) from the North Coast and Islands of Bass Strait", Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288). The variables of data includes:
-  - ```Sex```: Male (M), Female (F), or Infant (I)
-  - ```Length```: Longest shell measurement
-  - ```Diameter ```: Perpendicular to length
-  - ```Height```: Height with meat in shell
-  - ```Whole weight```: Weight with whole abalone
-  - ```Shucked weight```: Weight of meat
-  - ```Viscera weight```: Gut weight (after bleeding)
-  - ```Shell weight```: Weight after being dried
-  - ```Rings```: +1.5 gives the age in years
 
 ## Load_wine Dataset
 The make_classification dataset is from sklearn.datasets package. It can be used for classification problems. It contains three classes (types of wine), and it contains 13 attributes:
@@ -48,6 +36,20 @@ Fashion-MNIST is a dataset of Zalando's article images consisting of a training 
 
 ## Make_classification Dataset
 The make_classification dataset is from sklearn.datasets package. It can be used for classification problems similar to make_blobs dataset.
+
+# Alternative Dataset
+
+## Abalone Dataset
+The abalone data comes from an original (non-machine-learning) study: Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and Wes B Ford (1994), "The Population Biology of Abalone (_Haliotis_ species) in Tasmania. I. Blacklip Abalone (_H. rubra_) from the North Coast and Islands of Bass Strait", Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288). The variables of data includes:
+  - ```Sex```: Male (M), Female (F), or Infant (I)
+  - ```Length```: Longest shell measurement
+  - ```Diameter ```: Perpendicular to length
+  - ```Height```: Height with meat in shell
+  - ```Whole weight```: Weight with whole abalone
+  - ```Shucked weight```: Weight of meat
+  - ```Viscera weight```: Gut weight (after bleeding)
+  - ```Shell weight```: Weight after being dried
+  - ```Rings```: +1.5 gives the age in years
 
 ## Reference
 1. Palmer Penguin Dataset: https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
