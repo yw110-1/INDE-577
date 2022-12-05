@@ -1,5 +1,5 @@
 # $k$-Means Clustering
-In this sub-repository I will introduce the k-Means Clustering. K-means is considered as one of the most used clustering algorithms due to its simplicity.
+In this sub-repository, I will introduce the k-Means Clustering. K-means is considered as one of the most used clustering algorithms due to its simplicity.
 
 ## Algorithm
 Kmeans algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups/clusters where each data point belongs to only one group. It tries to make the intra-cluster data points as similar as possible while also keeping the clusters as far as possible.
@@ -15,4 +15,5 @@ Kmeans algorithm is an iterative algorithm that tries to partition the dataset i
 The dataset I am using is [make_classification](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html) dataset.
 
 ## Reference
-Dabbura, Imad, K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks, https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+1. Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
+2. Dabbura, Imad, K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks, https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
