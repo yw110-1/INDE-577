@@ -6,6 +6,12 @@ In this sub-repository, I will introduce a general continuous optimization techn
 <img src="https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/image/gradient.png" alt="gradient" width="500"/>
 </p>
 
+Clearly the function $f(w) = (w - 2)^2 + 1$ has a **global minimum** at $w = 2$. Supposing we did not already know the answer, how could we find it? That is, we wish to solve:
+
+$$
+\min_{w\in \mathbb{R}} f(w)
+$$
+
 The general idea behind gradient descent is to use the gradient (the derivative for single variable functions) to provide a direction to explore (this means gradient descent is a first-order method). For example, with our function $f$ and initial guess $w_0 = 5$, suppose we are able to calculate the value of the gradient (the derivative) of $f(w)$ at $w_0 = 5$. This numerical value will give us the slope of the tangent line to $f(w)$ at $w_0$. Note that $f'(w) = 2(w - 2)$.
 
 ### Gradient Descent Procedure
