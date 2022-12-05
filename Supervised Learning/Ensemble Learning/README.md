@@ -33,5 +33,6 @@ Steps involved in random forest algorithm:
 The dataset I am using in ensemble learning is [wine dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
 
 ## References
-1. Biswal, Avijeet, Bagging in Machine Learning: Steps to Perform and Its Advantages, https://www.simplilearn.com/tutorials/machine-learning-tutorial/bagging-in-machine-learning
-2. Understanding Random Forest, https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+1. Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
+2. Biswal, Avijeet, Bagging in Machine Learning: Steps to Perform and Its Advantages, https://www.simplilearn.com/tutorials/machine-learning-tutorial/bagging-in-machine-learning
+3. Understanding Random Forest, https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
