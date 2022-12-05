@@ -21,3 +21,6 @@ And the perception replace rule is shown as below:
 
 ## Dataset
 The dataset I am using is [Palmer Penguin dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
+
+## Reference
+Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
