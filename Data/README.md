@@ -24,7 +24,7 @@ The abalone data comes from an original (non-machine-learning) study: Warwick J 
   - ```Rings```: +1.5 gives the age in years
 
 ## Load_wine Dataset
-The make_classification dataset is from sklearn.datasets package. It contains three classes, and it contains 13 attributes:
+The make_classification dataset is from sklearn.datasets package. It can be used for classification problems. It contains three classes (types of wine), and it contains 13 attributes:
  - ```Alcohol```
  - ```Malic acid```
  - ```Ash```
@@ -46,3 +46,4 @@ The make_classification dataset is from sklearn.datasets package. It can be used
 1. Palmer Penguin Dataset: https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
 2. Make_classification Dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html
 3. Abalone Dataset: http://archive.ics.uci.edu/ml/datasets/Abalone
+4. Load_wine Dataset: https://archive.ics.uci.edu/ml/datasets/wine
