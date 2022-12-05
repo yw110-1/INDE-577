@@ -73,7 +73,7 @@ $$\frac{\partial C(w_1, b; \mathbf{X}, y)}{\partial b} = \frac{1}{N}\sum_{i=1}^{
 
 Calculating the full gradient with respect to all training data and applying the gradient descent algorithm is called batch gradient descent.
 
-Flavor 1. Batch Gradient Descent Algorithm:
+***Flavor 1***. Batch Gradient Descent Algorithm:
 
 For each epoch do
 Calculate the full gradient by finding $\frac{\partial C(w_1, b; \mathbf{X}, y)}{\partial w_1}$ and $\frac{\partial C(w_1, b; \mathbf{X}, y)}{\partial b}$.
@@ -85,7 +85,7 @@ Applying batch gradient descent will work. However, this method can be very slow
 
 The most common way work around for this problem is to update $w_1$ and $b$ by calculating the gradient with respect to one entry of data at a time. This technique is called stochastic gradient descent and is one of the primary tools in training deep neural networks and simple single neuron models.
 
-Flavor 2. Stochastic Gradient Descent Algorithm:
+***Flavor 2***. Stochastic Gradient Descent Algorithm:
 
 For each epoch do
 For $i = 1, \dots, N$ do
