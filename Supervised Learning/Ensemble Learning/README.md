@@ -1,5 +1,5 @@
 # Ensemble Learning
-In this sub-repository I will introduce ensemble learning methods. Ensemble methods are machine learning methods that aggregate the predictions of a group of base learners in order to form a single learning model. The methods I will include are **Bagging Classification** and **Random Forests**.
+In this sub-repository, I will introduce ensemble learning methods. Ensemble methods are machine learning methods that aggregate the predictions of a group of base learners in order to form a single learning model. The methods I will include are **Bagging Classification** and **Random Forests**.
 
 ## Algorithm
 ### Bagging
@@ -30,7 +30,7 @@ Steps involved in random forest algorithm:
 </p>
 
 ## Dataset
-The dataset I am using in ensemble learning is [wine dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
+The dataset I am using in ensemble learning is [Load_wine dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
 
 ## References
 1. Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
