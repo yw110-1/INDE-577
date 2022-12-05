@@ -38,6 +38,13 @@ The make_classification dataset is from sklearn.datasets package. It can be used
  - ```Hue```
  - ```OD280/OD315 of diluted wines```
  - ```Proline```
+ 
+## Fashion MNIST Dataset
+Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. It can be an alternative to MNIST dataset. Each example is a 28x28 grayscale image, associated with a label from 10 classes: ```Ankle boot```,  ```Bag```, ```Coat```,  ```Dress```,```Pullover```,```Sandal```,```Shirt```,```Sneaker```,```T-shirt/top```, and```Trouser```. The image below shows an example of dataset with ```Bag``` label.
+
+<p align="center">
+<img src="https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/image/bag.png" alt="bag" width="700"/>
+</p>
 
 ## Make_classification Dataset
 The make_classification dataset is from sklearn.datasets package. It can be used for classification problems similar to make_blobs dataset.
@@ -47,3 +54,4 @@ The make_classification dataset is from sklearn.datasets package. It can be used
 2. Make_classification Dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html
 3. Abalone Dataset: http://archive.ics.uci.edu/ml/datasets/Abalone
 4. Load_wine Dataset: https://archive.ics.uci.edu/ml/datasets/wine
+5. Fashion_MNIST Dataset: https://www.tensorflow.org/datasets/catalog/fashion_mnist
