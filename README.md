@@ -12,7 +12,7 @@ Email: rrd6@rice.edu
 
 ## Description
 This data science course covers algorithms from [supervised learning](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning), [unsupervised learning](https://github.com/yw110-1/INDE-577/tree/main/Unsupervised%20Learning) , and reinforcement learning. Topics include:
-### Supervised Learning:
+### - Supervised Learning:
 - [Perceptron](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Perceptron)
 - [Gradient Descent](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Gradient%20Descent)
 - [Linear Regression](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Linear%20Regression)
@@ -22,7 +22,7 @@ This data science course covers algorithms from [supervised learning](https://gi
 - [Decision Trees](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Decision%20Tree)
 - [Ensemble Learning](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning/Ensemble%20Learning)
 
-### Unsupervised Learning:
+### - Unsupervised Learning:
 - [k-Means Clustering](https://github.com/yw110-1/INDE-577/tree/main/Unsupervised%20Learning/k-Means%20Clustering)
 - [Principle Component Analysis](https://github.com/yw110-1/INDE-577/tree/main/Unsupervised%20Learning/Principle%20Component%20Analysis)
 
