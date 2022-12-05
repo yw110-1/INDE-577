@@ -37,5 +37,9 @@ The datasets used in the codes are showed in the [dataset folder](https://github
 - Visual Studio Code
 - Google Colab
 
+## Textbook
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
+- Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
+
 ## Reference
 Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
