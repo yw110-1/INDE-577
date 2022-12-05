@@ -63,6 +63,7 @@ $$
 The dataset I am using for deep neural network is [Fashion MNIST dataset](https://github.com/yw110-1/INDE-577/tree/main/Data).
 
 ## References
-1. bmcblogs, What’s a Deep Neural Network? Deep Nets Explained, https://www.bmc.com/blogs/deep-neural-network/
-2. Hackernoon, What is One Hot Encoding?, https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
+1. Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
+2. bmcblogs, What’s a Deep Neural Network? Deep Nets Explained, https://www.bmc.com/blogs/deep-neural-network/
+3. Hackernoon, What is One Hot Encoding?, https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
 
