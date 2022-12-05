@@ -25,19 +25,19 @@ The abalone data comes from an original (non-machine-learning) study: Warwick J 
 
 ## Load_wine Dataset
 The make_classification dataset is from sklearn.datasets package. It contains three classes, and it contains 13 attributes:
- 	- ```Alcohol```
- 	- ```Malic acid```
- 	- ```Ash```
-	- ```Alcalinity of ash```  
- 	- ```Magnesium```
-	- ```Total phenols```
- 	- ```Flavanoids```
- 	- ```Nonflavanoid phenols```
- 	- ```Proanthocyanins```
-	- ```Color intensity```
- 	- ```Hue```
- 	- ```OD280/OD315 of diluted wines```
- 	- ```Proline```
+ - ```Alcohol```
+ - ```Malic acid```
+ - ```Ash```
+ -  ```Alcalinity of ash```  
+ - ```Magnesium```
+ - ```Total phenols```
+ - ```Flavanoids```
+ - ```Nonflavanoid phenols```
+ - ```Proanthocyanins```
+ - ```Color intensity```
+ - ```Hue```
+ - ```OD280/OD315 of diluted wines```
+ - ```Proline```
 
 ## Make_classification Dataset
 The make_classification dataset is from sklearn.datasets package. It can be used for classification problems similar to make_blobs dataset.
