@@ -1,5 +1,5 @@
 # Deep Neural Network
-In this sub-repository I will introduce the deep neural network using tensorflow dataset. A deep neural network (DNN) is an ANN with multiple hidden layers between the input and output layers. The main purpose of a neural network is to receive a set of inputs, perform progressively complex calculations on them, and give output to solve real world problems like classification.
+In this sub-repository, I will introduce the deep neural network using tensorflow dataset. A deep neural network (DNN) is an ANN with multiple hidden layers between the input and output layers. The main purpose of a neural network is to receive a set of inputs, perform progressively complex calculations on them, and give output to solve real world problems like classification.
 
 ## Algorithm
 <p align="center">
