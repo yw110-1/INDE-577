@@ -1,5 +1,5 @@
 # Logistic Regression
-In this sub-repository we will model the probabilistic binary classification problem as a single neuron model with the *binary cross entropy loss function*. As with single neuron linear regression, we will train our neuron with stochastic gradient descent.
+In this sub-repository, I will introduce logistic regression. We will model the probabilistic binary classification problem as a single neuron model with the *binary cross entropy loss function*. As with single neuron linear regression, we will train our neuron with stochastic gradient descent.
 
 ## Algorithm
 
