@@ -37,5 +37,5 @@ The datasets used in the codes are showed in the [dataset folder](https://github
 - Visual Studio Code
 - Google Colab
 
-## Resource
+## Reference
 Dr. Davila's Github, https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
