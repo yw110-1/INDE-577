@@ -53,7 +53,7 @@ The abalone data comes from an original (non-machine-learning) study: Warwick J 
 
 ## Reference
 1. Palmer Penguin Dataset: https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
-2. Make_classification Dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html
-3. Abalone Dataset: http://archive.ics.uci.edu/ml/datasets/Abalone
-4. Load_wine Dataset: https://archive.ics.uci.edu/ml/datasets/wine
-5. Fashion_MNIST Dataset: https://www.tensorflow.org/datasets/catalog/fashion_mnist
+2. Load_wine Dataset: https://archive.ics.uci.edu/ml/datasets/wine
+3. Fashion_MNIST Dataset: https://www.tensorflow.org/datasets/catalog/fashion_mnist
+4. Make_classification Dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html
+5. Abalone Dataset: http://archive.ics.uci.edu/ml/datasets/Abalone
