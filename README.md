@@ -6,9 +6,7 @@ By Iris Wu, yw110@rice.edu
 </p>
 
 ## Instructor
-Instructor: Dr. Randy R. Davila
-
-Email: rrd6@rice.edu
+Dr. Randy R. Davila, rrd6@rice.edu
 
 ## Description
 This data science course covers algorithms from [supervised learning](https://github.com/yw110-1/INDE-577/tree/main/Supervised%20Learning), [unsupervised learning](https://github.com/yw110-1/INDE-577/tree/main/Unsupervised%20Learning) , and reinforcement learning. Topics include:
