@@ -1,5 +1,5 @@
 # INDE 577: Data Science and Machine Learning
-By Iris Wu
+By Iris Wu, yw110@rice.edu
 
 <p align="center">
 <img src="https://github.com/yw110-1/INDE-577/blob/main/Supervised%20Learning/Perceptron/image/machine-learning.png" alt="machine-learning" width="700"/>
